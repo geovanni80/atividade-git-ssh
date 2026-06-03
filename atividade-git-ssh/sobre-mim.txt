@@ -1,4 +1,4 @@
 Olá, meu nome é Geovanni Carlos
-Tenho 19 anos
+Tenho 19 anos, aprendi a como fazer esta atividade sem um git clone
 Estudo Engenharia de Software na Unifil
 Sei falar inglês e estou estudando japonês
